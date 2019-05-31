@@ -1,0 +1,6 @@
+.idea/
+env.py
+migrations/
+*.sqlite3
+.env
+env.sh
